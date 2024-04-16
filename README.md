@@ -40,7 +40,7 @@
 ## Презентация
 
 ### Слайд 1
-![Слайд 1](https://drive.google.com/file/d/1eRLncu7DnZXyLQvuw3n5rhqT8MJ53NjX/view?usp=sharing)
+![Слайд 1](https://drive.google.com/file/d/1aiOPrw0KIo3cv2vUX0bIqfOYCESPFpzG/view)
 
 ### Слайд 2
 ![Слайд 2](https://drive.google.com/file/d/1aiOPrw0KIo3cv2vUX0bIqfOYCESPFpzG/view?usp=sharing)
