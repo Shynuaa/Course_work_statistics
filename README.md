@@ -36,4 +36,18 @@
 ВЫВОДЫ
 ПРИЛОЖЕНИЯ 
 </pre>
+![Alt Text](URL)
+## Презентация
+
+### Слайд 1
+![Слайд 1](https://drive.google.com/file/d/1eRLncu7DnZXyLQvuw3n5rhqT8MJ53NjX/view?usp=sharing)
+
+### Слайд 2
+![Слайд 2](https://drive.google.com/file/d/1aiOPrw0KIo3cv2vUX0bIqfOYCESPFpzG/view?usp=sharing)
+
+### Слайд 3
+![Слайд 3](https://example.com/slide3.png)
+
+
+Материалы курсовой: https://drive.google.com/drive/u/1/folders/1tWoISMYHRziqkAODxIf-qPkUCH3L9-dN
 
