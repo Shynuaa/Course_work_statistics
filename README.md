@@ -1,8 +1,9 @@
 # Курсовая работа  по прикладному статистическому анализу
-<pre>
+
 <b>Тема: «Разработка модели прогнозирования развития опасных болезней»</b>
+
 Материалы курсовой: https://drive.google.com/drive/u/1/folders/1tWoISMYHRziqkAODxIf-qPkUCH3L9-dN
-</pre>
+
 ## Презентация
 ![Слайд 1](https://i.ibb.co/JBstTGC/25ed379dcaf08292a856961c1e346034-0.jpg)
 ![Слайд 2](https://i.ibb.co/yXmSpRs/25ed379dcaf08292a856961c1e346034-1.jpg)
