@@ -36,17 +36,10 @@
 ВЫВОДЫ
 ПРИЛОЖЕНИЯ 
 </pre>
-![Alt Text](URL)
 ## Презентация
-
-### Слайд 1
 ![Слайд 1](https://i.ibb.co/JBstTGC/25ed379dcaf08292a856961c1e346034-0.jpg)
-
-### Слайд 2
-![Слайд 2](https://drive.google.com/file/d/1aiOPrw0KIo3cv2vUX0bIqfOYCESPFpzG/view?usp=sharing)
-
-### Слайд 3
-![Слайд 3](https://example.com/slide3.png)
+![Слайд 2](https://i.ibb.co/yXmSpRs/25ed379dcaf08292a856961c1e346034-1.jpg)
+![Слайд 3](https://i.ibb.co/Qj05CrS/25ed379dcaf08292a856961c1e346034-2.jpg)
 
 
 Материалы курсовой: https://drive.google.com/drive/u/1/folders/1tWoISMYHRziqkAODxIf-qPkUCH3L9-dN
